@@ -1,0 +1,7 @@
+{
+  "type": "PostgreSQL",
+  "host": "localhost",
+  "port": 5432,
+  "username": "prod_user",
+  "password": "prod_pass"
+}

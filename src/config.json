@@ -1,0 +1,17 @@
+{
+    "database": {
+      "type": "PostgreSQL",
+      "host": "localhost",
+      "port": 5432,
+      "username": "user",
+      "password": "pass"
+    },
+    "server": {
+      "port": 3000,
+      "enableHttps": true
+    },
+    "logging": {
+      "level": "info",
+      "format": "json"
+    }
+}
